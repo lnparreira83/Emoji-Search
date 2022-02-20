@@ -1,2 +1,2 @@
 # Emoji-Search
-Aplicação de barra de busca utilizando Searchable
+Aplicação de barra de busca utilizando Searchable - iOS 15
